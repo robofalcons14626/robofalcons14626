@@ -1,0 +1,8 @@
+Each of profile should be providing various details like
+1. Name, picture (keep it fun)
+2. Description about self
+3. Whats your interest in robotics, why have you taken up robotics and what do you want to achieve? 
+4. Hobbies
+5. Movies, books etc that you like
+6. Sports or other activities you are participating in.
+
